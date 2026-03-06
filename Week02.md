@@ -1,4 +1,4 @@
-## Week01
+## Week02
 # Learning activities and resources
 This week i watched some linkedin modules, watched some tutorials on Joomla and read some articles on Joomla
 https://www.linkedin.com/learning/wordpress-essential-training-24651128/launching-a-wordpress-site?u=2223545
