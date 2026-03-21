@@ -1,7 +1,7 @@
 # Week05
 ## Learning activities and resources
 Linkedin modules  
-Wordpress documentation on child themes
+Wordpress documentation on child themes  
 https://developer.wordpress.org/themes/advanced-topics/child-themes
 
 ## Estimated hours
