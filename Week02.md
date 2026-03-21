@@ -5,6 +5,8 @@ https://www.linkedin.com/learning/wordpress-essential-training-24651128/launchin
 https://www.youtube.com/watch?v=h5VZwTLdgdM
 https://docs.joomla.org/Special:MyLanguage/J6.x:Getting_Started_with_Joomla!
 
+## Estimated Hours 
+About 5 hours 
 
 ## Content Insights
 WordPress serves as an interface between the content publisher, a database, and the visitor accessing the content through a web browser.
