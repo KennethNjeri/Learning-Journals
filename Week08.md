@@ -1,18 +1,12 @@
-# Week05
-## Learning activities and resources
-Linkedin modules  
-Wordpress documentation on child themes  
-https://developer.wordpress.org/themes/advanced-topics/child-themes
+# Week08
+## Learning experiment 
+Hypothesis:  
+Doing study in short blocks and taking timed breaks to internalize content will be more effective in retaining information than doing long study sessions 
+Test  
+Study in 15-minute blocks and take 5-minute breaks in between, reflect on what I can recall by doing quizzes and various challenges.
+Result  
+Compare results between doing long sessions and 15-minute blocks, if results show improvement, then the hypothesis is true.
 
-## Estimated hours
-About 3 hours
-
-
-## Content Insights
-Child themes is a theme that inherits the functionality, styling and features of a parent theme while allowing you to make customization without altering the parent theme directly.
-This allows the changes to remain intact even after the parent theme is updated. Hooks are areas in WordPress code that allow additional functionality to be added.
-There are two types of hooked functions; actions which can perform custom functionality while filters modify existing output.
 
 ## Learning Insights
-Child themes are a powerful way to customising website styles and adding more functionality to certain aspects of the website.
-Being able to modify existing design systems and delivering custom solutions that remain stable as the parent theme evolves will be a key skill in landing employment rolls using WordPress. 
+Applying the learning experiment in my own learning I discovered that I could recall more that I had learned earlier in the session as compared to when I had done long sessions. Going through what I had learnt in the 5-minute breaks helped me internalize content more as compared to doing long sessions then trying to recall everything at the end . I have realised  using  this method is very effective for my learning and helps me avoid getting easily distracted, and I don’t have to keep rewatching modules or reviewing documentation giving me  more time to work on other tasks.
