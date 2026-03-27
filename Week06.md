@@ -1,4 +1,4 @@
-# Week05
+# Week06
 ## Learning activities and resources
 LinkedIn modules
 Docker documentation
